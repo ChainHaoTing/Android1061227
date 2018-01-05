@@ -1,0 +1,9 @@
+p134 
+生命週期
+用 BMI_6_2
+
+儲存資料 用 SharedPreferences
+
+p152 多國語言製作 新增 Values
+
+此專案為 期中考 登入頁面製作
